@@ -1,8 +1,8 @@
 <?php
-$config_site_name		= "Site Name";
+$config_site_name		= "Yay! finally";
 
-$db_hostname			= "localhost";
-$db_database			= "egypt";
-$db_username			= "root";
-$db_password			= "1234";
+$db_hostname			= "10.194.111.8";
+$db_database			= "db_ccef4b81";
+$db_username			= "user_ccef4b81";
+$db_password			= "D,@Ez.wORLAKCS";
 $db_dbdriver			= "mysql";
